@@ -1,0 +1,7 @@
+%YAML 1.2
+---
+parameters:
+  SSH_HOST: host
+  SSH_USER: username
+  SSH_PASS: password if necessary
+  MODULE_PATH: /path/to/module
